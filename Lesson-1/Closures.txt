@@ -1,0 +1,7 @@
+14-07-2020
+
+Lesson 1
+
+Subject: Closures
+
+Homework: Join to GitHub, create repository and add a new SSH key
